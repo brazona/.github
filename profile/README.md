@@ -1,4 +1,4 @@
-<img src="./profile/assets/brazona 800x276-v2.png" width="100px;"/>
+<img src="./profile/assets/brazona 800x276-v2.png" width="500px;"/>
 
 ## TABELA DE CONTEÚDOS
 ---
@@ -38,7 +38,7 @@ A Brazona Tech reúne 4 setores de atuação dentro do mercado tecnológico, def
 ### MAPA_DE_SETORES
 ---
 
-<img src="./assets/Mapa_Setores_Brazona_Tech.png">
+<img src="./profile/assets/Mapa_Setores_Brazona_Tech.png" width="500px;"/>
 
 ### BRSIG
 ---
