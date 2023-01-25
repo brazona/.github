@@ -1,4 +1,4 @@
-<img src="./profile/assets/brazona 800x276-v2.png">
+<img src="./profile/assets/brazona 800x276-v2.png" width="100px;"/>
 
 ## TABELA DE CONTEÚDOS
 ---
