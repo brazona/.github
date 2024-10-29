@@ -1,32 +1,8 @@
-<img src="./profile/assets/brazona 800x276-v2.png">
+<img src="https://i.ibb.co/XF6YHKv/Group-1.png"  alt="Image" height="100" width="380" />
 
-## TABELA DE CONTEÚDOS
----
+## Descrição
 
- <!--ts-->
-   * [INTRODUÇÃO](#INTRODUÇÃO)
-   * [STATUS](#STATUS)
-   * [DESCRIÇÃO](#DESCRIÇÃO)
-   * [MAPA DE SETORES](#MAPA_DE_SETORES)
-   * [BRSIG](#BRSIG)
-   * [BRGAMES](#BRGAMES)
-   * [BRSERVICES](#BRSERVICES)
-   * [BREDUCATION](#BREDUCATION)
-   * [DOCUMENTACAO](#DOCUMENTACAO)
-   * [LICENÇA](#LICENÇA)
-<!--te-->
-
-### INTRODUÇÃO
----
-
-A Brazona tecnologia é uma companhia de desenvolvimento de software oferecendo ao mercado público e privado, produtos de gerenciamento empresarial para os diversos setores da economia, serviços de consultoria e desenvolvimento de sistemas.
-
-### STATUS
-
-> Status do Projeto: Em andamento
-
-### DESCRIÇÃO
----
+A Brazona Tech é uma organização especialista em desenvolvimento de software e jogos digitais, conta com expertice de mercado no segmento de tecnologia, administração e logística, oferecendo alguns produtos de gestão de projetos e prática administrativas através de jogos educativo, envolvendo tecnologias atuais do mercado, que capacita a organização a ser uma das mais indicadas desenvolvedoras de aplicativo, que ofere serviços desenvolvimento de novos aplicativos e sustenção de sistema para outra organização.
 
 A empresa tem forte envolvimento com o setor da tecnologia, buscando sempre a melhoria contínua adaptando às mudanças do mercado interno e externo para aprimorar o conhecimento e experiência que proporcionará a qualidade e segurança das aplicações.
 
@@ -34,38 +10,51 @@ Uma das principais propostas da organização é oferecer aos clientes uma diver
 
 A Brazona Tech reúne 4 setores de atuação dentro do mercado tecnológico, definidos e  diversificados para atender às variadas demandas do mercado.
 
+### Saas
 
-### MAPA_DE_SETORES
----
-
-<img src="./profile/assets/Mapa_Setores_Brazona_Tech.png">
-
-### BRSIG
 ---
 
 Este catálogo de software focado em fornecer ferramentas de gestão e gerência empresarial, oferecendo soluções a diversos segmentos do mercado público e privado, desde e-commerce, desenvolvimento de software, logística internacional e a gestão da cadeia de suprimentos até a gestão financeira.
 
-### BRGAMES
+### Jogos Digitais
+
 ---
 
 Este setor da Brazona responsável pelo desenvolvimento de jogos digitais, um nicho pouco investido no Brasil mas que possui um dos maiores mercados consumidores de games.
 
-### BRSERVICES
+### Desenvolvimento de Software
+
 ---
 
 O conhecimento e experiência adquirido nos processos de desenvolvimento das próprias aplicações também são ofertados ao mercado, com profissionais qualificados e estrutura organizacional pronta para o setor de tecnologia, a Branoza BR Service tem como proposta prestar serviços de consultoria e desenvolvimento.
 
-### BREDUCATION
+### Academia
+
 ---
 
 Com propósito de disseminar conhecimento essa área dedicasse a criar conteúdo didático para atuais e futuros profissionais da tecnologia.
 
-### DOCUMENTACAO
+### Catálogo de Software ***SAAS***
 
-> [Documentação completa WIKI](https://github.com/brazona/.github/wiki)
+| Sigla | Descrição | Status do Projeto |
+| --- | --- | --- |
+| IDP | Provedor de serviço de identidade, com funcionalidades personalizadas que agilizam o processo de gestão garantido a segurança. | em andamento 🛠️ |
+| BAG | Sistema de jogos administrativos educacionais, uma plataforma com aspectos lúdicos com abordagem em praticas empresariais | em andamento 🛠️ |
+| BAF | Software de gestão de projetos focado no desenvolvimento de sistemas e jogos digitais | em andamento 🛠️ |
 
-## **AUTOR**
----
+### Catálogo de Jogos Digitais
+
+| Titulo | Descrição | Status do Projeto |
+| --- | --- | --- |
+| O Reino de Kush | O projeto tem como escopo central, entregar um jogo digital do estilo aventura para o público hardcore, narrando a história de um povo pouco conhecido no setor de entretenimento, mas que foi muito importante para a história do continente Africano e no antigo Egito. | aguardando ⏳ |
+| Resplendor | Jogo de mundo aberto, que narra a história de anjos e demonios. | aguardando ⏳ |
+
+
+<!-- ### DOCUMENTACAO
+
+> [Documentação completa WIKI](https://github.com/brazona/.github/wiki) -->
+
+## **Autor**
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29206101?v=4" width="100px;" alt=""/>
 
@@ -75,10 +64,8 @@ Feito com ❤️ por Cézar Felipe 👋🏽 Entre em contato!
   <a href = "mailto:cezarfelipe2008@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cezarfelipedasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-## LICENÇA
+## Licença
 <a href="https://github.com/CezarFelipe/micro-service-springcloud/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-MIT-green" target="_blank"></a>
-
-<!--
 
 
 **Here are some ideas to get you started:**

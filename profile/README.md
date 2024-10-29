@@ -2,17 +2,57 @@
 
 ## Descrição
 
-A Brazona Tech é uma organização especialista em desenvolvimento de software e jogos digitais, conta com expertice de mercado no segmento de tecnologia, administração e logística.
+A Brazona Tech é uma organização especialista em desenvolvimento de software e jogos digitais, conta com expertice de mercado no segmento de tecnologia, administração e logística, oferecendo alguns produtos de gestão de projetos e prática administrativas através de jogos educativo, envolvendo tecnologias atuais do mercado, que capacita a organização a ser uma das mais indicadas desenvolvedoras de aplicativo, que ofere serviços desenvolvimento de novos aplicativos e sustenção de sistema para outra organização.
 
-A Brazona oferece ao mercado alguns produtos de gestão de projetos e prática administrativas através de jogos educativo, envolvendo tecnologias atuais do mercado, que capacita a organização a ser uma das mais indicadas desenvolvedoras de aplicativo, que ofere serviços desenvolvimento de novos aplicativos e sustenção de sistema para outra organização.
+A empresa tem forte envolvimento com o setor da tecnologia, buscando sempre a melhoria contínua adaptando às mudanças do mercado interno e externo para aprimorar o conhecimento e experiência que proporcionará a qualidade e segurança das aplicações.
 
-### Catálogo de Software
+Uma das principais propostas da organização é oferecer aos clientes uma diversidade de produtos gerenciais para setores econômicos da sociedade que funcionam integrados ou individualmente, além de ter presença no setor tecnológico de entretenimento tanto para lazer quanto educacional.
+
+A Brazona Tech reúne 4 setores de atuação dentro do mercado tecnológico, definidos e  diversificados para atender às variadas demandas do mercado.
+
+### Saas
+
+---
+
+Este catálogo de software focado em fornecer ferramentas de gestão e gerência empresarial, oferecendo soluções a diversos segmentos do mercado público e privado, desde e-commerce, desenvolvimento de software, logística internacional e a gestão da cadeia de suprimentos até a gestão financeira.
+
+### Jogos Digitais
+
+---
+
+Este setor da Brazona responsável pelo desenvolvimento de jogos digitais, um nicho pouco investido no Brasil mas que possui um dos maiores mercados consumidores de games.
+
+### Desenvolvimento de Software
+
+---
+
+O conhecimento e experiência adquirido nos processos de desenvolvimento das próprias aplicações também são ofertados ao mercado, com profissionais qualificados e estrutura organizacional pronta para o setor de tecnologia, a Branoza BR Service tem como proposta prestar serviços de consultoria e desenvolvimento.
+
+### Academia
+
+---
+
+Com propósito de disseminar conhecimento essa área dedicasse a criar conteúdo didático para atuais e futuros profissionais da tecnologia.
+
+### Catálogo de Software ***SAAS***
 
 | Sigla | Descrição | Status do Projeto |
 | --- | --- | --- |
 | IDP | Provedor de serviço de identidade, com funcionalidades personalizadas que agilizam o processo de gestão garantido a segurança. | em andamento 🛠️ |
 | BAG | Sistema de jogos administrativos educacionais, uma plataforma com aspectos lúdicos com abordagem em praticas empresariais | em andamento 🛠️ |
 | BAF | Software de gestão de projetos focado no desenvolvimento de sistemas e jogos digitais | em andamento 🛠️ |
+
+### Catálogo de Jogos Digitais
+
+| Titulo | Descrição | Status do Projeto |
+| --- | --- | --- |
+| O Reino de Kush | O projeto tem como escopo central, entregar um jogo digital do estilo aventura para o público hardcore, narrando a história de um povo pouco conhecido no setor de entretenimento, mas que foi muito importante para a história do continente Africano e no antigo Egito. | aguardando ⏳ |
+| Resplendor | Jogo de mundo aberto, que narra a história de anjos e demonios. | aguardando ⏳ |
+
+
+<!-- ### DOCUMENTACAO
+
+> [Documentação completa WIKI](https://github.com/brazona/.github/wiki) -->
 
 ## **Autor**
 
